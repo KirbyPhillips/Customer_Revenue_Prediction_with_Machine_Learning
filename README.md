@@ -222,7 +222,7 @@ The analysis could also support measurable improvements such as:
 
 > **Potential financial impact:** Even relatively small improvements in targeting and retention could produce meaningful revenue gains across a customer base of approximately 2,000 customers.
 
-*These figures are illustrative examples of how a revenue prediction model could create business value in practice and were not directly measured in this academic analysis.*
+*These figures are illustrative examples of how a revenue prediction model could create business value in practice.*
 
 ---
 
