@@ -17,7 +17,7 @@ This repository presents the end-to-end process used to explore customer revenue
 6. [Part 4: Model Evaluation](#model-evaluation)
 7. [Part 5: Key Findings](#key-findings)
 8. [Business Value & Financial Impact](#business-value--financial-impact)
-9. [Tools](#tools)
+9. [Tools & Technologies](#tools-&-technologies)
 10. [Technical Skills Demonstrated](#technical-skills-demonstrated)
 ---
 
