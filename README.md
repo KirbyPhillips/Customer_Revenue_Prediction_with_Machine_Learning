@@ -23,3 +23,16 @@ This repository presents the end-to-end process used to explore customer revenue
 12. [Project Context](#project-context)
 ---
 
+## 1. Project Overview
+
+Top Chef is a gourmet meal-delivery business serving customers through its online platform, offering prepared meals alongside additional services such as weekly meal plans, customer feedback surveys, and master cooking classes. With approximately 2,000 customer records containing purchasing behaviour, engagement, and account-level information, the business had access to a substantial amount of customer data that could potentially provide insight into differences in customer revenue.
+
+However, having customer data alone does not explain which behaviours and engagement patterns are associated with higher revenue, or how this information could be used to anticipate the revenue potential of individual customers.
+
+As a result, the business could not easily answer questions such as:
+
+- Which customer behaviours and engagement patterns are most strongly associated with revenue?
+- To what extent can customer-level data be used to predict future revenue?
+- How could revenue predictions support more targeted marketing and customer retention decisions?
+
+This project was built to address that gap by exploring customer behaviour and engagement data before developing and evaluating machine learning regression models to predict customer revenue. The goal was to determine how effectively the available customer data could explain and predict differences in revenue, while demonstrating how these predictions could support more informed marketing, retention, and customer-value decisions.
