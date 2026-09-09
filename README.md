@@ -11,7 +11,7 @@ This repository presents the end-to-end process used to explore customer revenue
 
 1. [Project Overview](#project-overview)
 2. [The Dataset](#the-dataset)
-3. [Exploratory Data Analysis](#exploratory-data-analysis)
+3. [Part 1: Exploratory Data Analysis](#exploratory-data-analysis)
 4. [Data Preparation & Feature Engineering](#data-preparation--feature-engineering)
 5. [Predictive Modelling](#predictive-modelling)
 6. [Model Evaluation](#model-evaluation)
@@ -187,7 +187,7 @@ The strongest Linear Regression iteration achieved a testing R² of approximatel
 
 ---
 
-## 7. Key Findings
+## 7. Part 5: Key Findings
 
 ### Customer Behaviour and Engagement Contained Useful Predictive Information
 
