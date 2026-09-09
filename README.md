@@ -23,7 +23,7 @@ This repository presents the end-to-end process used to explore customer revenue
 
 ## 1. Project Overview
 
-Top Chef is a gourmet meal-delivery business with approximately 2,000 customer records containing purchasing behaviour, engagement, and account-level information. While this data captured how customers interacted with the business, it did not clearly show which behaviours were associated with higher revenue or how customer data could be used to predict revenue potential.
+Top Chef is a gourmet meal-delivery business with ~2,000 customer records containing purchasing behaviour, engagement, and account-level information. While this data captured how customers interacted with the business, it did not clearly show which behaviours were associated with higher revenue or how customer data could be used to predict revenue potential.
 
 As a result, the business needed to understand:
 
