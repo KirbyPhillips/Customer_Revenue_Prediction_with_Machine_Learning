@@ -37,4 +37,20 @@ This project addresses that gap through exploratory data analysis, feature engin
 
 ---
 
+## 2. The Dataset
+
+The analysis uses a dataset of approximately **2,000 Top Chef customers**, with each record representing an individual customer. The data includes information on customer purchasing behaviour, engagement with Top Chef's services, customer interactions and account characteristics.
+
+| Data Area | Examples |
+|---|---|
+| Purchasing Behaviour | Meal orders, order size and cancellations |
+| Customer Engagement | Videos, feedback, photos and cooking classes |
+| Customer Interactions | Customer service and survey engagement |
+| Account Characteristics | Customer and email-domain information |
+| **Target Variable** | **REVENUE** |
+
+The objective was to explore how these customer characteristics relate to revenue and use them to develop predictive models.
+
+---
+
 
