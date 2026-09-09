@@ -240,7 +240,20 @@ The analysis could also support measurable improvements such as:
 
 ## 10. Technical Skills Demonstrated
 
-**Python** · **Pandas** · **scikit-learn** · **Exploratory Data Analysis** · **Data Cleaning** · **Missing-Value Treatment** · **Feature Engineering** · **Correlation Analysis** · **OLS Regression** · **Linear Regression** · **ARD Regression** · **Train/Test Splitting** · **Predictive Modelling** · **Model Evaluation**
+**Python** 
+· **Pandas** 
+· **scikit-learn** 
+· **Exploratory Data Analysis** 
+· **Data Cleaning** 
+· **Missing-Value Treatment** 
+· **Feature Engineering** 
+· **Correlation Analysis** 
+· **OLS Regression** 
+· **Linear Regression** 
+· **ARD Regression** 
+· **Train/Test Splitting** 
+· **Predictive Modelling** 
+· **Model Evaluation**
 
 ---
 
