@@ -53,6 +53,12 @@ The objective was to explore how these customer characteristics relate to revenu
 
 ## 3. Part 1: Exploratory Data Analysis
 
+### Initial Setup and Data Inspection
+
+The analysis began by importing the required Python libraries, loading the Top Chef customer dataset and inspecting the dataset structure before beginning exploratory analysis.
+
+![Python libraries and dataset loading](images/01_data_import_and_inspection.png)
+
 The analysis began by examining the dataset structure, variable types, descriptive statistics, missing values and the distribution of the target variable, `REVENUE`. Customer behaviour and engagement variables were then explored to identify patterns and relationships that could inform the predictive modelling stage.
 
 ### Revenue Distribution
