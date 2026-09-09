@@ -17,9 +17,8 @@ This repository presents the end-to-end process used to explore customer revenue
 6. [Model Evaluation](#model-evaluation)
 7. [Key Findings](#key-findings)
 8. [Business Value & Financial Impact](#business-value--financial-impact)
-9. [Technical Skills Demonstrated](#technical-skills-demonstrated)
-10. [Tools](#tools)
-11. [Project Context](#project-context)
+9. [Tools](#tools)
+10. [Technical Skills Demonstrated](#technical-skills-demonstrated)
 ---
 
 ## 1. Project Overview
@@ -52,7 +51,7 @@ The objective was to explore how these customer characteristics relate to revenu
 
 ---
 
-## 3. Exploratory Data Analysis
+## 3. Part 1: Exploratory Data Analysis
 
 The analysis began by examining the dataset structure, variable types, descriptive statistics, missing values and the distribution of the target variable, `REVENUE`. Customer behaviour and engagement variables were then explored to identify patterns and relationships that could inform the predictive modelling stage.
 
@@ -92,7 +91,7 @@ These relationships were used to identify variables with potential predictive va
 
 ---
 
-## 4. Data Preparation & Feature Engineering
+## 4. Part 2: Data Preparation & Feature Engineering
 
 The data was prepared for modelling by addressing missing values and transforming selected customer information into more analytically useful features.
 
@@ -110,7 +109,7 @@ This transformed the original email data into structured categorical features th
 
 ---
 
-## 5. Predictive Modelling
+## 5. Part 3: Predictive Modelling
 
 The modelling process aimed to estimate customer `REVENUE` using customer behaviour and engagement variables.
 
@@ -172,7 +171,7 @@ The regression models were compared using their predictive performance and the d
 
 ---
 
-## 6. Model Evaluation
+## 6. Part 4: Model Evaluation
 
 Model performance was evaluated primarily using **R²**, which measures the proportion of variation in customer revenue explained by the model.
 
