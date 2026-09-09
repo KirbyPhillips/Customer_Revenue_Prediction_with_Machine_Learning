@@ -21,3 +21,5 @@ This repository presents the end-to-end process used to explore customer revenue
 10. [Technical Skills Demonstrated](#technical-skills-demonstrated)
 11. [Tools](#tools)
 12. [Project Context](#project-context)
+---
+
