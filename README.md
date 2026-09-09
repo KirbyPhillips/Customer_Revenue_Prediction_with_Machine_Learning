@@ -226,7 +226,7 @@ The analysis could also support measurable improvements such as:
 
 ---
 
-## 9. Tools
+## 9. Tools & Technologies
 
 | Tool | Purpose |
 |---|---|
