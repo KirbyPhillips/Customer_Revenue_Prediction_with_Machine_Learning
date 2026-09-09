@@ -53,4 +53,18 @@ The objective was to explore how these customer characteristics relate to revenu
 
 ---
 
+## 3. Exploratory Data Analysis
+
+The analysis began by examining the dataset structure, variable types, descriptive statistics, missing values and the distribution of the target variable, `REVENUE`. Customer behaviour and engagement variables were then explored to identify patterns and relationships that could inform the predictive modelling stage.
+
+### Revenue Distribution
+
+The distribution of `REVENUE` was examined to understand how customer revenue was distributed across the dataset.
+
+`REVENUE` was **right-skewed**, indicating that most customers generated relatively lower levels of revenue, while a smaller group generated substantially higher revenue.
+
+> **Key Insight:** Customer revenue was unevenly distributed, with a relatively small group of higher-value customers generating substantially more revenue than the majority.
+
+---
+
 
