@@ -10,17 +10,16 @@ This repository outlines the full analytical and technical process used to predi
 This repository presents the end-to-end process used to explore customer revenue and develop predictive machine learning models, from understanding the business problem and data through to model evaluation and potential business impact.
 
 1. [Project Overview](#project-overview)
-2. [Business Question](#business-question)
-3. [The Dataset](#the-dataset)
-4. [Exploratory Data Analysis](#exploratory-data-analysis)
-5. [Data Preparation & Feature Engineering](#data-preparation--feature-engineering)
-6. [Predictive Modelling](#predictive-modelling)
-7. [Model Evaluation](#model-evaluation)
-8. [Key Findings](#key-findings)
-9. [Business Value & Financial Impact](#business-value--financial-impact)
-10. [Technical Skills Demonstrated](#technical-skills-demonstrated)
-11. [Tools](#tools)
-12. [Project Context](#project-context)
+2. [The Dataset](#the-dataset)
+3. [Exploratory Data Analysis](#exploratory-data-analysis)
+4. [Data Preparation & Feature Engineering](#data-preparation--feature-engineering)
+5. [Predictive Modelling](#predictive-modelling)
+6. [Model Evaluation](#model-evaluation)
+7. [Key Findings](#key-findings)
+8. [Business Value & Financial Impact](#business-value--financial-impact)
+9. [Technical Skills Demonstrated](#technical-skills-demonstrated)
+10. [Tools](#tools)
+11. [Project Context](#project-context)
 ---
 
 ## 1. Project Overview
