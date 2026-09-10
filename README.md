@@ -228,8 +228,8 @@ For example, if model-informed targeting increased revenue from selected high-va
 
 The analysis could also support measurable improvements such as:
 
-- **5–10% increase in revenue** from more targeted customer campaigns.
-- **10–20% improvement in marketing efficiency** by focusing investment on customers with higher predicted revenue potential.
+- **5-10% increase in revenue** from more targeted customer campaigns.
+- **10-20% improvement in marketing efficiency** by focusing investment on customers with higher predicted revenue potential.
 - **5% reduction in revenue loss** from improved retention of higher-value customers.
 - **Improved campaign ROI**, measured by comparing incremental revenue generated against campaign costs.
 
