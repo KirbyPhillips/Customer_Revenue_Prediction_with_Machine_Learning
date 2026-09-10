@@ -266,7 +266,7 @@ A future iteration would therefore move beyond predicting customer revenue to te
 ## 10. Concluding Notes
 
 This concludes the analysis and summarises the work completed throughout the project.  
-The following section outline the tools and technical skills applied to deliver the analysis and predictive modelling.
+The following sections outline the tools and technical skills applied to deliver the analysis and predictive modelling.
 
 ### Tools & Technologies
 
