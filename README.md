@@ -296,7 +296,7 @@ The following section outline the tools and technical skills applied to deliver 
 
 **Kirby Phillips**
 
-Data Consultant | [LinkedIn](https://www.linkedin.com/in/kirbykphillips/)
+Data Consultant | BI & Data Science | [LinkedIn](https://www.linkedin.com/in/kirbykphillips/)
 
 For any inquiries, email me: kphillips.za@gmail.com
 
