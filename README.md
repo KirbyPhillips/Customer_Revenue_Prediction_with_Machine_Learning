@@ -56,11 +56,15 @@ The objective was to explore how these customer characteristics relate to revenu
 
 The analysis began by examining the dataset structure, variable types, descriptive statistics, missing values and the distribution of the target variable, `REVENUE`. Customer behaviour and engagement variables were then explored to identify patterns and relationships that could inform the predictive modelling stage.
 
+![Data Import and Inspection](images/01_data_import_and_inspection.png)
+
 ### Revenue Distribution
 
 The distribution of `REVENUE` was examined to understand how customer revenue was distributed across the dataset.
 
 `REVENUE` was **right-skewed**, indicating that most customers generated relatively lower levels of revenue, while a smaller group generated substantially higher revenue.
+
+![Revenue Distribution](images/03_revenue_distribution.png)
 
 > **Key Insight:** Customer revenue was unevenly distributed, with a relatively small group of higher-value customers generating substantially more revenue than the majority.
 
@@ -70,6 +74,8 @@ The distribution of `REVENUE` was examined to understand how customer revenue wa
 The dataset was checked for missing values across all variables. `FAMILY_NAME` was the only variable containing missing data, with **47 missing values**, representing approximately **2.4% of the dataset**.
 
 The missing `FAMILY_NAME` values were replaced with the placeholder **`'None'`** using the Pandas `fillna()` method. The dataset was then checked again to confirm that no missing values remained before proceeding with the analysis.
+
+![Missing Data](images/02_missing_data.png)
 
 ---
 
@@ -131,12 +137,16 @@ The modelling process included:
 
 The strongest OLS model iterations achieved adjusted R² values ranging from approximately **0.61 to 0.64**.
 
+![OLS Regression Results](images/06_ols_regression_results.png)
+
 ### Train/Test Split
 
 To evaluate how well the predictive models generalised to unseen data, the dataset was divided into:
 
 - **Training data** for fitting the models
 - **Testing data** for evaluating predictive performance
+
+![Train Test Split](images/07_train_test_split.png)
 
 This allowed model performance to be assessed using observations that were not used during model training.
 
@@ -161,6 +171,8 @@ One of the stronger Linear Regression model iterations achieved:
 | Testing R² | **0.659** |
 
 The test performance was slightly higher than the training performance, suggesting that the model's predictive performance remained reasonably consistent across the two datasets.
+
+![Linear Regression](images/08_linear_regression.png)
 
 ### ARD Regression
 
