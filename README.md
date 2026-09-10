@@ -16,8 +16,10 @@ This repository presents the end-to-end process used to explore customer revenue
 6. [Part 4: Model Evaluation](#model-evaluation)
 7. [Part 5: Key Findings](#key-findings)
 8. [Business Value & Financial Impact](#business-value--financial-impact)
-9. [Tools & Technologies](#tools-&-technologies)
-10. [Technical Skills Demonstrated](#technical-skills-demonstrated)
+9. [In Hindsight](#in-hindsight)
+10. [Concluding Notes](#concluding-notes)
+    - [Tools & Technologies](#tools--technologies)
+    - [Technical Skills Demonstrated](#technical-skills-demonstrated)
 ---
 
 ## 1. Project Overview
@@ -225,7 +227,33 @@ The analysis could also support measurable improvements such as:
 
 ---
 
-## 9. Tools & Technologies
+## 9. In Hindsight
+
+This analysis demonstrated that customer behaviour and engagement data could be used to predict a meaningful proportion of variation in customer revenue. Looking back, there are several areas I would expand in a future iteration to make the modelling more robust and the business application stronger.
+
+### Model Development
+
+- Evaluate additional machine learning algorithms to determine whether more complex models could improve predictive performance beyond the regression approaches used in this analysis.
+- Introduce cross-validation to provide a more robust assessment of model performance across different subsets of the data.
+- Evaluate additional performance metrics such as **MAE** and **RMSE** alongside R² to better understand the size of prediction errors.
+
+### Feature Engineering
+
+- Develop additional customer-level features from the available purchasing and engagement data to capture customer behaviour more comprehensively.
+- Explore whether interactions between customer behaviours provide additional predictive value beyond individual variables.
+
+### Business Application
+
+- Test whether using revenue predictions to target specific customer segments actually improves revenue, retention or marketing efficiency.
+- Introduce controlled experimentation to measure the incremental financial impact of model-informed marketing and retention strategies rather than relying solely on predicted outcomes.
+
+A future iteration would therefore move beyond predicting customer revenue to testing how those predictions could be used to generate measurable business value.
+
+---
+
+## 10. Concluding Notes
+
+### Tools & Technologies
 
 | Tool | Purpose |
 |---|---|
@@ -237,7 +265,7 @@ The analysis could also support measurable improvements such as:
 
 ---
 
-## 10. Technical Skills Demonstrated
+### Technical Skills Demonstrated
 
 **Data Analysis & Preparation**
 - Python
