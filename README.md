@@ -94,7 +94,7 @@ The analysis investigated variables including:
 
 These relationships were used to identify variables with potential predictive value and inform subsequent regression modelling.
 
-> **Note:** The relationships identified through correlation analysis indicate association and should not be interpreted as evidence of causation.
+> **Note:** The relationships identified through correlation analysis indicated association but should not be interpreted as evidence of causation.
 
 ---
 
