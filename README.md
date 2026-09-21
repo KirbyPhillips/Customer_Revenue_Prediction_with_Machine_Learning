@@ -306,9 +306,7 @@ The following sections outline the tools and technical skills applied to deliver
 
 ## Author
 
-**Kirby Phillips**
-
-Data Consultant
+**Kirby Phillips** | Data Consultant
 
 For any inquiries, contact me: 
 
