@@ -308,7 +308,7 @@ The following sections outline the tools and technical skills applied to deliver
 
 **Kirby Phillips**
 
-Data Consultant | BI & Data Science
+Data Consultant
 
 For any inquiries, contact me: 
 
