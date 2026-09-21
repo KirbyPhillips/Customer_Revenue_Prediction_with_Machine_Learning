@@ -2,7 +2,9 @@
 
 ### Note: 
 
-This repository outlines the data science analytical and technical process used to predict customer revenue, from exploratory data analysis and data preparation through to feature engineering and regression-based machine learning modelling. Key findings, model performance, and potential business value and financial impact are provided throughout the project.
+This repository outlines the data science analytical and technical process used to predict customer revenue.
+
+It includes exploratory data analysis and data preparation through to feature engineering and regression-based machine learning modelling. Key findings, model performance, and potential business value and financial impact are provided throughout the project.
 
 ## Table of Contents
 
